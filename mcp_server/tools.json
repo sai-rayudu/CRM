@@ -1,0 +1,6 @@
+{
+    "tools": [
+        "send_mail",
+        "reply_mail"
+    ]
+}
